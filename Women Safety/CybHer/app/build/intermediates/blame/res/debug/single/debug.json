@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\phicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_next_btn_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\next_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_passicon.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\passicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_usicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\usicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_pulse_animation.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\pulse_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gps.jpg.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\gps.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_usicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\usicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_usicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\usicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_next_btn_icon.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\next_btn_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_next_btn_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\next_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_success_background.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\title_success_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_emicon.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\emicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_in.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_wave.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_phicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\phicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_phicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\phicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_background.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_left_in.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w2.jpg.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\w2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_downanim.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\top_downanim.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_passicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\passicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_emicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\emicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_on_boarding_screen.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\layout\\activity_on_boarding_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sos.jpg.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\sos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_passicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\passicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_btn_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\next_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_usicon.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\usicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_emicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\emicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_emicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\emicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_next_btn_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\next_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_usicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\usicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_next_btn_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\next_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboardyes.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\layout\\activity_dashboardyes.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogwindow.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\layout\\dialogwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_shake.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_next_btn_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\next_btn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skip_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_passicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\passicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_warning.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w4.jpg.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\w4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_skip_icon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\skip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_phicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\phicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_in.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_phicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\phicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_warning.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_upanim.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\bottom_upanim.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_cycle.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_usicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\usicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w3.jpg.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\w3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_usicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\usicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_phicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\phicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\layout_slides_layout.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\layout\\slides_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_neutral_background.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\button_neutral_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_passicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\passicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_warning_dialog.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\layout\\layout_warning_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_passicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\passicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_warning_background.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\button_warning_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_phicon.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\phicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_emicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\emicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_passicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\passicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_skip_icon.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\skip_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_header.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\layout\\menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_emicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\emicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w1.jpg.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\w1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_emergency.jpg.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\emergency.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_anim.xml.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\anim\\bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_geo.jpg.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\drawable\\geo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_emicon.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\emicon.png"
+    },
+    {
+        "merged": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vineet khola\\Desktop\\CybHer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
